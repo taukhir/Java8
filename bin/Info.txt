@@ -1,0 +1,55 @@
+Java 8 Features [https://www.javaguides.net/p/java-8.html]
+
+1. Static & Default Methods in Interface
+2. Streams class
+3. Collectors class
+4. String Joiner class
+5. Functional Interfaces
+6. Lambda Expressions
+7. Method Reference
+8. LocalDateTime
+9. forEach method
+10. Optional Class
+11. 
+
+
+Links For Optional :
+
+1. https://www.javaguides.net/2018/07/java-8-optional-class.html
+2. https://mkyong.com/java8/java-8-optional-in-depth/
+3  https://docs.oracle.com/javase/8/docs/api/java/util/Optional.html
+
+
+Links for Method Reference
+
+1. https://www.geeksforgeeks.org/method-references-in-java-with-examples/?ref=gcse
+2. https://www.baeldung.com/java-method-references#static-method
+3. https://www.javatpoint.com/java-8-method-reference
+
+
+Links for Streams
+
+1. https://www.javaguides.net/2018/07/java-8-stream-api.html
+
+
+Links for StringJoiner
+
+1. https://www.javaguides.net/2018/07/java-8-stringjoiner-class.html
+
+Links for DateTime
+
+1. https://www.geeksforgeeks.org/java-time-localdate-class-in-java/ [LocalDate]
+2. https://www.javaguides.net/2018/07/java-8-date-classes-with-examples.html  [All]
+3. https://www.javaguides.net/2018/08/java-8-localtime-class-api-guide.html    [LocalTime]
+4. https://www.geeksforgeeks.org/localtime-with-method-in-java-with-examples/?ref=gcse [LocalTime]
+5. https://www.digitalocean.com/community/tutorials/java-8-date-localdate-localdatetime-instant
+
+Links for ForEach
+
+1. https://www.baeldung.com/foreach-java
+
+Links for static & default methods in interface
+
+Links for Functional Interface
+
+Links for Lambda Expressions
